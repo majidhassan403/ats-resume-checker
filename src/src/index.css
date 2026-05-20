@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  background:#020617;
+  color:white;
+  
+  font-family:sans-serif;
+  transition:0.3s;
+}
+
+/* LIGHT MODE */
+
+body.light{
+  background:#f8fafc;
+  color:#020617;
+  
+  
+  
+}
+
+/* LIGHT MODE CARDS */
+
+body.light .bg-slate-900,
+body.light .bg-slate-900\/70,
+body.light .bg-slate-900\/95{
+  background:#ffffff !important;
+  
+  
+
+}
+
+/* LIGHT MODE BORDERS */
+
+body.light .border-slate-800{
+  border-color:#cbd5e1 !important;
+}
+
+/* LIGHT MODE TEXT */
+
+body.light .text-slate-300,
+body.light .text-slate-400{
+  color:#475569 !important;
+  
+  
+
+  
+}
+
+/* LIGHT MODE DARK BOX */
+
+body.light .bg-slate-950{
+  background:#f1f5f9 !important;
+  
+}
