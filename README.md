@@ -10,7 +10,7 @@ A modern AI-powered ATS Resume Analyzer frontend built using React, Vite and Tai
 
 ## Live Demo 🌐
 
-[https://ats-resume-checker-yvik.vercel.app/](https://ats-resume-checker-yvik.vercel.app/)
+[https://ats-resume-checker-yvik.vercel.app/]
 
 ## Features ✨
 
@@ -35,12 +35,14 @@ A modern AI-powered ATS Resume Analyzer frontend built using React, Vite and Tai
 
 ## GitHub Repository
 
-[https://github.com/majidhassan403](https://github.com/majidhassan403)
+https://github.com/majidhassan403/ats-resume-checker
 
 ## Developer 👨‍💻
 
 **Majid Hassan**
 
-LinkedIn: [https://www.linkedin.com/in/majid-hassan-0844a33bb](https://www.linkedin.com/in/majid-hassan-0844a33bb)
-Instagram: [https://www.instagram.com/majidhassan41](https://www.instagram.com/majidhassan41)
-GitHub: [https://github.com/majidhassan403](https://github.com/majidhassan403)
+LinkedIn: [https://www.linkedin.com/in/majid-hassan-0844a33bb]
+
+Instagram: [https://www.instagram.com/majidhassan41]
+
+GitHub: [https://github.com/majidhassan403]
